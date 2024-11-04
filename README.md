@@ -8,4 +8,4 @@
 
 ## その他
 
-[東北豆打](docs/information.md)
+[東北豆打](docs/User/Tohoku_Zunda/information.md)

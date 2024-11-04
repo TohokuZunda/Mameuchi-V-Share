@@ -1,3 +1,3 @@
 # Template
 
-[トップページに戻る](./README.md)
+[トップページに戻る](../../../README.md)
